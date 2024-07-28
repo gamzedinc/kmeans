@@ -1,2 +1,2 @@
-# tezun-versty
+# tez-unversty
 K- ortalamalar kümeleme
